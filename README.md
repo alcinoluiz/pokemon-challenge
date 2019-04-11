@@ -3,10 +3,10 @@ The goal is to develop a Machine Learning model able to predict the result of fu
 More info <a href='https://www.kaggle.com/terminus7/pokemon-challenge/home'>here</a>
 
 ### Milestones
-- [x] Import libs
-- [x] Import data
-- [x] Explore data - Doing
-- [ ] Prepare data
+- [x] Import libs - Done
+- [x] Import data - Done
+- [x] Explore data - Done
+- [x] Prepare data - Doing
 - [ ] Explore models
 - [ ] Train / Fit
 - [ ] Results
