@@ -6,9 +6,9 @@ More info <a href='https://www.kaggle.com/terminus7/pokemon-challenge/home'>here
 - [x] Import libs - Done
 - [x] Import data - Done
 - [x] Explore data - Done
-- [x] Prepare data - Doing
-- [ ] Explore models
-- [ ] Train / Fit
+- [x] Prepare data - Done
+- [x] Explore models - Done
+- [x] Train / Fit - Doing
 - [ ] Results
 - [ ] Tunning the model
 - [ ] Final results
